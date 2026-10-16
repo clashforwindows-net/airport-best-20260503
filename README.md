@@ -336,6 +336,7 @@ A: 域名频繁变动、客服回复变慢、年付优惠突然加大（清仓�
 - https://clashhub.net — Clash 教程与合规评测
 - https://bbs.clashhub.net — 用户真实评价社区
 - https://clash-for-windows.net — 客户端下载
+- https://vpsvip.net — VPSVIP 主机推荐（搭机场/建站优选）
 
 ---
 
@@ -352,4 +353,4 @@ A: 域名频繁变动、客服回复变慢、年付优惠突然加大（清仓�
 MIT License
 
 ---
-更新时间：2026-08-18 ｜ 专题：合规性与安全合规深度分析
+更新时间：2026-10-16 ｜ 专题：合规性与安全合规深度分析
